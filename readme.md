@@ -9,5 +9,6 @@ The day one helped me to understand the _**#TODO**_ tags and why you can't _comm
 have to edit the tag to be able to _commit and push_ your progress.
 
 ![Day 1 test](imgs/test_day_1.PNG)
+
 _This is the test of my first day of the challenge_
 
