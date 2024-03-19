@@ -12,6 +12,7 @@ s = 'HackerRank '
 i_ = int(input())
 d_ = float(input())
 s_ = str(input())
+# These have no text because when I put text on the input to specify what it were the test show me an error.
 
 # Print the sum of both integer variables on a new line.
 print(i + i_)
