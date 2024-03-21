@@ -6,7 +6,7 @@ s = 'HackerRank '
 # i_ = 12
 # d_ = 4.0
 # s_ = 'is the best place to learn and practice coding!'
-# last is valid too.
+# last is valid too (is the hardcode pf the exercise).
 
 # Read and save an integer, double, and String to your variables.
 i_ = int(input())

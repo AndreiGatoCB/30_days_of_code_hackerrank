@@ -20,5 +20,10 @@ answers, and both of them are in my code, one as a comment and the another as th
 
 _This is the test result of my second day of the challenge_
 
+### Day 3
+The day three gives a problem where you have to create a tip and tax calculator, creating the first function of this 30 
+days challenge. I tried to use ``return`` in my code, but as the challenge solicitation was to print the price, it 
+doesn't work, so I turn it to print, and it works as it should.
+
 
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
