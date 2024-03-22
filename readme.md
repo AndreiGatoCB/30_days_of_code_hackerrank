@@ -24,6 +24,7 @@ _This is the test result of my second day of the challenge_
 The day three gives a problem where you have to create a tip and tax calculator, creating the first function of this 30 
 days challenge. I tried to use ``return`` in my code, but as the challenge solicitation was to print the price, it 
 doesn't work, so I turn it to print, and it works as it should.
+
 ![Day 3 test](imgs/test_day_3.PNG)
 
 _This is the test result of my third day of the challenge_
