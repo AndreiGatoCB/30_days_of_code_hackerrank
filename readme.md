@@ -29,4 +29,14 @@ doesn't work, so I turn it to print, and it works as it should.
 
 _This is the test result of my third day of the challenge_
 
+### Day 4
+The day four it's about the conditionals, I use the ``if`` statement and try with the ``elif`` statement too and the 
+``else`` statement to use it when the first condition isn't True. Also, when I tried the first submit it shows me an 
+error because of the test with the _**20**_, so I had to change the ``elif 6 < n < 20:`` for ``elif 6 < n <= 20:`` and 
+it works pretty well.
+
+![Day 4 test](imgs/test_day_4.PNG)
+
+_This is the test result of my fourth day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
