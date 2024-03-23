@@ -48,4 +48,4 @@ Sample Case 1: _**n = 24**_
 
 _**n > 20**_ and _**n**_ is even, so it is not weird. Thus, we print Not Weird.
 
-[Day four](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true)
+[Day four](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true).
