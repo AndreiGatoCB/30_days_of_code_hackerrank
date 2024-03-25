@@ -39,4 +39,15 @@ it works pretty well.
 
 _This is the test result of my fourth day of the challenge_
 
+### Day 5
+This day was about Classes, here the task talk about to calculate the stage of life of a person and be able to add years
+to the ages that was given. It was fun to try to put all the conditions and make it run with just one Class every time 
+it was needed, I had a typo error and I didn't understand why it wasn't success, because I had all the answers as the 
+sample output, but then I found the typo error and it runs perfect.
+
+![Day 5 test](imgs/test_day_5.PNG)
+
+_This is the test result of my fifth day of the challenge_
+
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
