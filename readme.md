@@ -49,5 +49,11 @@ sample output, but then I found the typo error and it runs perfect.
 
 _This is the test result of my fifth day of the challenge_
 
+### Day 6
+In this day I worked with loops, I used a for loop to create a string and return the whole string and print it in once 
+all the string. I like the challenge about get the first 10 multiples of a number and don't count the 0 in them, that 
+was the complicated part, but I solved that bug fast and easy.
+
+![Day 6 test](imgs/test_day_6.PNG)
 
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
