@@ -56,4 +56,14 @@ was the complicated part, but I solved that bug fast and easy.
 
 ![Day 6 test](imgs/test_day_6.PNG)
 
+_This is the test result of my sixth day of the challenge_
+
+### Day 7
+Day 7 give us a challenge without a clue, but I write all the code, first time in this course using the ``while`` loop, 
+I use to check the many times we can test a word, so it works pretty well.
+
+![Day 7 test](imgs/test_day_7.PNG)
+
+_This is the test result of my seventh day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
