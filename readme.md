@@ -66,4 +66,15 @@ I use to check the many times we can test a word, so it works pretty well.
 
 _This is the test result of my seventh day of the challenge_
 
+### Day 8
+This challenge was funny, I learnt that if you put an input as an array, and you put the elements separated with a space
+the array is going to get them as different elements of the array, that was the hard part of the challenge. First I 
+tried to convert the array as a string, but then I find out that about the spaces and change a bit my code, so it run 
+successfully.
+
+
+![Day 8 test](imgs/test_day_8.PNG)
+
+_This is the test result of my seventh day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
