@@ -87,4 +87,13 @@ File Error) were activated, so that make it ran successfully the code and get th
 
 _This is the test result of my ninth day of the challenge_
 
+### Day 10
+Day ten had the recursive function challenge. It was harder than I thought. At first, I didn't understand how to make 
+the loop works as well, but then I understood that what I needed was a function that ran inside itself, and that make it
+run as it should.
+
+![Day 10 test](imgs/test_day_10.PNG)
+
+_This is the test result of my tenth day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
