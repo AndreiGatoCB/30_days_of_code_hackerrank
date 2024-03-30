@@ -28,13 +28,13 @@ A single integer,  _**n**_ (the argument to pass to factorial).
 - Your submission must contain a recursive function named factorial.
 
 ## Sample Input
-
+````
 3
-
+````
 ## Sample Output
-
+````
 6
-
+````
 ## Explanation
 
 Consider the following steps. After the recursive calls from step 1 to 3, results are accumulated from step 3 to 1.

@@ -96,4 +96,12 @@ run as it should.
 
 _This is the test result of my tenth day of the challenge_
 
+### Day 11
+On day eleven I used a class, so I can give it an entire, convert it to binary as a string, then, I created a function 
+in the class that count the consecutive 1's and return that number.
+
+![Day 11 test](imgs/test_day_11.PNG)
+
+_This is the test result of my eleventh day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
