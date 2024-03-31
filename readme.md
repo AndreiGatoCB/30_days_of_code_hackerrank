@@ -108,10 +108,20 @@ _This is the test result of my eleventh day of the challenge_
 In this challenge I used 3 loops to create an array of the hour_glass, and then make a sum of the terms that are valid 
 to the hor glass (all but first and third of the second line). At first I tried to compare the sum_arr with the new one
 and take the max of them as the printable value, but in the submit code it shows me 3 tests as fails, so, I change the 
-process and make a list with those results and the print the max value of that list. That make the code run successfully.
+process and make a list with those results and the print the max value of that list. That make the code run 
+successfully.
 
 ![Day 12 test](imgs/test_day_12.PNG)
 
 _This is the test result of my twelfth day of the challenge_
+
+### Day 13
+Day thirteen was about the inheritance of the classes, so it has to get a relation between the principal class
+(superclass) and a secondary class (subclass), using the ``super()`` function in the secondary class it is possible 
+and make it work as it should.
+
+![Day 13 test](imgs/test_day_13.PNG)
+
+_This is the test result of my thirteenth day of the challenge_
 
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
