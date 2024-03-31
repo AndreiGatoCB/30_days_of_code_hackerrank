@@ -27,5 +27,6 @@ class ContOnes:
         return max_count
 
 
-co = ContOnes(5)
+n = int(input())
+co = ContOnes(n)
 print(co.consecutive())
