@@ -133,4 +133,14 @@ empty, then in the child class you have to create a function that do what you wa
 
 _This is the test result of my fourteenth day of the challenge_
 
+### Day 15
+At this challenge I had to get the absolute difference between all the numbers on an array. I solve this challenge using
+a loop in a loop and removing the first element of the array when it ends the second loop run. Then when the first loop 
+finally ends it gets the max number of a list created in the loops. Then as it is a variable created on the function it 
+has to call the function before print it.
+
+![Day 15 test](imgs/test_day_15.PNG)
+
+_This is the test result of my fifteenth day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
