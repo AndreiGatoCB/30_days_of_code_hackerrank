@@ -124,4 +124,13 @@ and make it work as it should.
 
 _This is the test result of my thirteenth day of the challenge_
 
+### Day 14
+This challenge was about abstract classes. The abstract classes talk about abstract methods, that are decorators that 
+permits to a parent class to run a function of its child class, so in the parent class the function should be created 
+empty, then in the child class you have to create a function that do what you want to do with the abstract method.
+
+![Day 14 test](imgs/test_day_14.PNG)
+
+_This is the test result of my fourteenth day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
