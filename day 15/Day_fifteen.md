@@ -4,7 +4,7 @@ Today we're discussing scope. Check out the
 [Tutorial](https://www.hackerrank.com/challenges/30-scope/tutorial) tab for learning materials and an instructional
 video!
 
-_**------------------------------------------------------------------------------------------------------------------**_
+------------------------------------------------------------------------------------------------------------------
 
 The absolute difference between two integers, _**a**_ and _**b**_, is written as _**|a-b|**_. The maximum absolute 
 difference between two integers in a set of positive integers, _**elements**_, is the largest absolute difference 

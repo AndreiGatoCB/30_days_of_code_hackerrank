@@ -143,4 +143,15 @@ has to call the function before print it.
 
 _This is the test result of my fifteenth day of the challenge_
 
+### Day 16
+On day sixteen I didn't know anything about 'linked lists'. Now I understand that they are lists where their values
+(nodes) are linked to the very next value. Then I try to complete the method 'insert()'. First it needs a new node. Then 
+it has to check if head exists, if not get the new node as the return. Next the head is marked as the current element 
+and check if current has a 'next' attribute. Then the code assign the 'new node' to the current.next. Finally it returns
+'head' that is the element that the display method needs to work as it's needed.
+
+![Day 16 test](imgs/test_day_16.PNG)
+
+_This is the test result of my fifteenth day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
