@@ -156,12 +156,20 @@ _This is the test result of my sixteenth day of the challenge_
 
 ### Day 17
 Well, this day was not so hard, but it has a problem when the tester compile the code, so you have to delete the 
-``if __name__ == '__main__':`` line of code, then run the code and it shows the 'SUCCESS' message. With the 
+``if __name__ == '__main__':`` line of code, then run the code, and it shows the 'SUCCESS' message. With the 
 ``if __name__ == '__main__':`` line of code the outputs were as they should. I don't understand why is that error in the 
 compiler, but I solve it that way.
 
 ![Day 17 test](imgs/test_day_17.PNG)
 
 _This is the test result of my seventeenth day of the challenge_
+
+### Day 18
+This challenge was about classes and exceptions, I felt it very easy. The only problem with this calculator I felt was 
+the string output because I added the final dot to the string and the compiler call it as an output mistake. 
+
+![Day 18 test](imgs/test_day_18.PNG)
+
+_This is the test result of my eighteenth day of the challenge_
 
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
