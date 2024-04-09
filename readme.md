@@ -178,7 +178,7 @@ has 4 functions that are needed to get a good solve.
 
 ![Day 19 test](imgs/test_day_19.PNG)
 
-_This is the test result of my eighteenth day of the challenge_
+_This is the test result of my nineteenth day of the challenge_
 
 ### Day 20
 Day 20 is about sum the divisible numbers of an integer given, as the las few challenges I just had to write the class
@@ -186,6 +186,6 @@ code, I used a for loop and a if statement that is true if the module of the _**
 
 ![Day 20 test](imgs/test_day_20.PNG)
 
-_This is the test result of my eighteenth day of the challenge_
+_This is the test result of my twentieth day of the challenge_
 
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
