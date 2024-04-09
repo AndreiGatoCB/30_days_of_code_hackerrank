@@ -18,7 +18,7 @@ Complete the Student class by writing the following:
   4. An integer array (or vector) of test scores, _**scores**_.
 - A char calculate() method that calculates a Student object's average and returns the grade character representative of their calculated average:
 
-![Grading](../imgs/test_day_13_b.png)
+![Grading](../imgs/test_day_13_b.PNG)
 
 ## Input Format
 

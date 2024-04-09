@@ -48,6 +48,6 @@ _**T = 4**_, so your method will insert _**4**_ nodes into an initially empty li
 First the code returns a new node that contains the data value _**2**_ as the _**head**_ of the list. Then create and 
 insert nodes _**3**_, _**4**_, and _**1**_ at the tail of the list.
 
-![Linked list explanation](../imgs/test_day_16_b.png)
+![Linked list explanation](../imgs/test_day_16_b.PNG)
 
 [Day sixteen](https://www.hackerrank.com/challenges/30-linked-list/problem?isFullScreen=true)

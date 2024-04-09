@@ -172,4 +172,12 @@ the string output because I added the final dot to the string and the compiler c
 
 _This is the test result of my eighteenth day of the challenge_
 
+### Day 19
+On this day the challenge was about get a word and known if is or not a palindrome, the class that you have to create
+has 4 functions that are needed to get a good solve. 
+
+![Day 19 test](imgs/test_day_19.PNG)
+
+_This is the test result of my eighteenth day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
