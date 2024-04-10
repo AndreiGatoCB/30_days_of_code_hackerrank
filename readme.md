@@ -188,4 +188,12 @@ code, I used a for loop and a if statement that is true if the module of the _**
 
 _This is the test result of my twentieth day of the challenge_
 
+### Day 21
+So, this day was about sort an array and get the times you had to move any number to sort the entire array element by
+element, I solved it with a while loop inside of a for loop inside of a while loop. And it was success!
+
+![Day 21 test](imgs/test_day_21.PNG)
+
+_This is the test result of my twenty-first day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
