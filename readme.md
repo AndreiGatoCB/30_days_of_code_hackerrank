@@ -201,7 +201,7 @@ There is no python option to the day 22 challenge.
 
 [//]: # (![Day 21 test]&#40;imgs/test_day_21.PNG&#41;)
 
-_This is the test result of my twenty-first day of the challenge_
+_This is the test result of my twenty-second day of the challenge_
 
 ### Day 23
 The day twenty-three is about Binary Search Trees, it means every node of the three has two children, the task was to
@@ -209,6 +209,14 @@ call the levels that the binary tree has.
 
 ![Day 23 test](imgs/test_day_23.PNG)
 
-_This is the test result of my twenty-first day of the challenge_
+_This is the test result of my twenty-third day of the challenge_
+
+### Day 24
+The day twenty-four is about Binary Search Trees too, but in this task you have to print every node in a single line and
+in the order they were saved in the binary tree.
+
+![Day 24 test](imgs/test_day_24.PNG)
+
+_This is the test result of my twenty-fourth day of the challenge_
 
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
