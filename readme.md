@@ -196,4 +196,19 @@ element, I solved it with a while loop inside of a for loop inside of a while lo
 
 _This is the test result of my twenty-first day of the challenge_
 
+### Day 22
+There is no python option to the day 22 challenge.
+
+[//]: # (![Day 21 test]&#40;imgs/test_day_21.PNG&#41;)
+
+_This is the test result of my twenty-first day of the challenge_
+
+### Day 23
+The day twenty-three is about Binary Search Trees, it means every node of the three has two children, the task was to
+call the levels that the binary tree has. 
+
+![Day 23 test](imgs/test_day_23.PNG)
+
+_This is the test result of my twenty-first day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
