@@ -219,4 +219,14 @@ in the order they were saved in the binary tree.
 
 _This is the test result of my twenty-fourth day of the challenge_
 
+### Day 25
+This exercise was about delete the repeated nodes in a Binary three. I solved it with the function removeDuplicates, 
+this function creates a list with the head data. Then it gets a temporal value with the next node. After that it checks 
+the previous node. Next I used a while loop, and check if temp data is in the list of the values, if it is the temporal 
+value is the next one but if is not the temporal value is append to the list of values and change the other values.
+
+![Day 25 test](imgs/test_day_25.PNG)
+
+_This is the test result of my twenty-fifth day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
