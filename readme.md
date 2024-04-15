@@ -238,4 +238,12 @@ errors. I had to change the code about 3 times, but finally I could do a good ve
 
 _This is the test result of my twenty-sixth day of the challenge_
 
+### Day 27
+Day twenty-seven was a pretty challenging I had a misunderstanding and make it so long, and it shows 4 bad tests, so I 
+had to change almost all the code, so I make it shorter very shorter than the first code, finally it works pretty well.
+
+![Day 27 test](imgs/test_day_27.PNG)
+
+_This is the test result of my twenty-seventh day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
