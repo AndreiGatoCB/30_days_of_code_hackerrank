@@ -71,4 +71,4 @@ Because _**D2 < D1**_, it was returned late (but still within the same month and
 Per the library's fee structure, we know that our fine will be _**15 Hackos x (#days late)**_. We then print the result
 of _**15 x (D1 - D2) = 15 x (9 - 6) = 45**_ as our output.
 
-[Day twenty-seven]()
+[Day twenty-seven](https://www.hackerrank.com/challenges/30-nested-logic/problem?isFullScreen=true)

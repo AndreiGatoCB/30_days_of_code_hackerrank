@@ -246,4 +246,13 @@ had to change almost all the code, so I make it shorter very shorter than the fi
 
 _This is the test result of my twenty-seventh day of the challenge_
 
+### Day 28
+Today I worked on testing, where I had to create three classes and return three different arrays. At first I didn't 
+understand two of the returns, I thought it was pretty harder than it really was. When I opted for an easier solution it
+works pretty well.
+
+![Day 28 test](imgs/test_day_28.PNG)
+
+_This is the test result of my twenty-eighth day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
