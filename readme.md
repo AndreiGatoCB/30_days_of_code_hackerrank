@@ -255,4 +255,13 @@ works pretty well.
 
 _This is the test result of my twenty-eighth day of the challenge_
 
+### Day 29
+At second to last day I had to get some inputs, with names and e-mails, and discard those mails that were not form gmail
+and return the names in alphabetical order. I use the ``re.search`` to get all the gmail mails, and then ``sort()`` to 
+sort the users alphabetically.
+
+![Day 29 test](imgs/test_day_29.PNG)
+
+_This is the test result of my twenty-ninth day of the challenge_
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
