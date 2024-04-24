@@ -264,4 +264,16 @@ sort the users alphabetically.
 
 _This is the test result of my twenty-ninth day of the challenge_
 
+### Day 30
+For the final day I had to create a function that gets a bitwise AND return, and get the max value that were lower than
+a second given integer. At first I did an easy version, but it has some time problems, it takes to long to run as well, 
+so I change it trying with a version that gets only the values that I need in the for loops, and that makes it ran 
+faster.
+
+![Day 30 test](imgs/test_day_30.PNG)
+
+_This is the test result of my thirtieth day of the challenge_
+
+Well, this challenge was pretty fun to work, Now I want to get another and harder challenges to improve my code skills.
+
 You can try this challenge at [_**HackerRank**_](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
